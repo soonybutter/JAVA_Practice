@@ -1,0 +1,16 @@
+JavaPractice/01_Method
+JavaPractice/02_Operator
+JavaPractice/03_If
+JavaPractice/04_Switch
+JavaPractice/05_While
+JavaPractice/06_For
+JavaPractice/07_Array
+JavaPractice/08_DimensionalArray
+JavaPractice/09_Object
+JavaPractice/10_Poly
+JavaPractice/11_BasicAPI
+JavaPractice/12_Exception
+JavaPractice/13_IO
+JavaPractice/14_Collection
+JavaPractice/15_Thread
+JavaPractice/16_Network
